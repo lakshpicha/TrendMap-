@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+pytrends
+xlsxwriter
+scikit-learn
+tensorflow
+fake-useragent
+python-dotenv
+numpy
